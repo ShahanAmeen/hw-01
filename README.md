@@ -6,7 +6,8 @@ Updating herizon website to meet sematic HTML standards. Changed divs to section
 ## application img'
 
 ## URL
-
+https://github.com/ShahanAmeen/hw-01 
+https://shahanameen.github.io/hw-01/ 
 ## Author
 Shahan Ameen
 https://github.com/ShahanAmeen 
